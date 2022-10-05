@@ -1,4 +1,5 @@
 # team-profile-generator
+![Desktop Screenshot 2022 10 05 - 15 43 41 93](https://user-images.githubusercontent.com/102763270/194148751-ff5d02a0-7fa0-47f2-a405-17153c466171.png)
 
 ## Description
 
@@ -29,3 +30,7 @@ npm run test
 ## Questions
 
 for questions, contact me at cdzacour@hotmail.com
+
+
+https://user-images.githubusercontent.com/102763270/194148677-45c7aa1b-85bf-4e8e-a282-782ff7de3464.mp4
+
